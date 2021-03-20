@@ -90,7 +90,7 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 itypes==1.1.0
 jdcal==1.4
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.6.4
 livereload==2.5.2
 MarkupSafe==1.0
